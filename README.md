@@ -5,5 +5,4 @@ Here is the training menu. <br>
                                                       
 <b> DEMO </b><br>
 <img src="images/second.gif" width="50%" height="50%"><br>
-<img src="images/third.gif" width="70%" height="70%">
 <img src="images/fourth.gif" width="70%" height="70%">
